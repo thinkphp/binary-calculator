@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: About - home
 ---
 
-[About me] (home)
+[http://adrianstatescu.com](http://adrianstatescu.com)
