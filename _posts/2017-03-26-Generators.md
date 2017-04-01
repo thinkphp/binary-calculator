@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Generators
-permalink: /:categories/:year/:month/:day/:title
+permalink: /binary-calculator/:year/:month/:day/:title.html
 ---
 
 Generators
