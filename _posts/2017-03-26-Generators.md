@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: Generators
+permalink: /binary-calculator/
 ---
 
 Generators
