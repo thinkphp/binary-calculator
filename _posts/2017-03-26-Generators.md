@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Generators
-permalink: /:categories/:year/:month/:day/:title.html
+permalink: /:categories/:year/:month/:day/:title.md
 ---
 
 Generators
